@@ -123,10 +123,10 @@ Contact us by <394256506@qq.com>
 
 
 ### Bug Track
-If you have any suggestions, bug reports, or annoyances please report them to our issue tracker at <https://github.com/dTap1989/salt_return_rewrite/issues>
+If you have any suggestions, bug reports, or annoyances please report them to our issue tracker at <https://github.com/Dtap117/salt_return_rewrite/issues>
 
 ### Wiki
-<https://github.com/dTap1989/salt_return_rewrite/wiki>
+<https://github.com/Dtap117/salt_return_rewrite/wiki>
 
 
 <!--### Blog
